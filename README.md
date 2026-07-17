@@ -256,10 +256,13 @@ Add screenshots of:
 -<img width="759" height="372" alt="image" src="https://github.com/user-attachments/assets/c5cb2e89-8247-41c0-9a8c-38985651c265" />
 
 - Attendance Page
-- <img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/f8678f1f-f87e-4e3b-88dd-c9786c1cf311" />
+<img width="825" height="388" alt="image" src="https://github.com/user-attachments/assets/c705fcb9-bd75-4aba-bfc9-dda179875857" />
+
 - Attendance Records
 
-<img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/b2257bb8-5441-4e44-8f42-5f5a8b8da12d" -/>
+
+<img width="804" height="431" alt="image" src="https://github.com/user-attachments/assets/ad864b97-a607-4b7c-83d9-6c4aacade8b0" />
+
 # 👩‍💻 Author
 
 **Varshini Reddy**
